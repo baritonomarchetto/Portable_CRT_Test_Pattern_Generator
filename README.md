@@ -3,24 +3,7 @@ A portable CRT Test pattern generator for SCART and arcade monitors based on RP2
 
 This project follows Nicholas Murray [RP2040-TestPatternGenerator](https://github.com/nmur/RP2040-TestPatternGenerator) and adopts his firmware as-it-is. So credits are due :)
 
-# Introduction
 ![](https://github.com/baritonomarchetto/Portable_CRT_Test_Pattern_Generator/blob/main/pics/IMG_20250911_113032_risultato.jpg)
-
-Lately one of my favourite arcade games started looking weird (:sad:).
-
-When this happens (and if you are "skilled in the art" of keeping up and running arcade cabinets you know it often does) the first thing to determine is where the cause of the issue lies: the game PCB or the monitor?
-
-A good first step is video source replacement with a confirmed working one, just to see if something changes.
-
-What is the best video source for monitor testing? One could ask. Greyed hairs pro technicians would reply with no hesitation "get a CRT pattern generator kid!".
-
-As a tinkerer and not a professional repair guy, I had not such a tool in my box. Yet.
-
-It was time to remedy, so I started lurking the net in the hunt for one of those devices. Soon I had to realize that there's nothing cheap enought for me out there (:sad: again).
-
-It was time to roll something on my own!
-
-After a brief research online I found an interesting project by [Nicholas Murray](https://github.com/nmur/RP2040-TestPatternGenerator): a CRT test pattern generator based on RP2040 microprocessor. Niiiice, we have a good starting point!
 
 # Features
 This project emulates the functions of a once-common tool in CRT repair labs. It produce a series of low resolution images (test patterns) useful to check and fine tune CRT raster's geometry, colors, contrast, convergence etc. etc.
