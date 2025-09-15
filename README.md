@@ -47,7 +47,7 @@ One is the so called "blanking" signal (pin 16). This has to be in the 1 - 3V ra
 
 Automatic switching to AV channel is also important because it frees from the use of the remote control. Automatic switching to the AV channel is possible by applying a tension of 9.5 to 10V on SCART pin 8.
 
-## Power Supply
+## Battery Operation
 If you have ever worked in your basement, with little to no surfaces where to place your diagnosis tools and flying cables all around, you know how easy it is to screw things up.
 
 I don't have to tell you how important it is to use portable diagnosys tool, then.
